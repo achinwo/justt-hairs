@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Justt Hairs</string>
+    <string name="title_activity_main">Justt Hairs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_inventory_viewer">InventoryViewer</string>
+    <string name="action_load_images">Load Image(s)</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="no_image">no image</string>
+
+</resources>
